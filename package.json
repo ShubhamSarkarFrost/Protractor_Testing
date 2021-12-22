@@ -1,0 +1,32 @@
+{
+  "name": "bigbasket",
+  "version": "1.0.0",
+  "description": "Following is the angular js based test for Bigbasket application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhamSarkarFrost/Protractor_Testing.git"
+  },
+  "author": "Ssarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhamSarkarFrost/Protractor_Testing/issues"
+  },
+  "homepage": "https://github.com/ShubhamSarkarFrost/Protractor_Testing#readme",
+  "devDependencies": {
+    "protractor": "^7.0.0",
+    "selenium-webdriver": "4.1.0",
+    "jasmine-reporters": "2.5.0",
+    "protractor-html-screenshot-reporter": "0.0.21",
+    "protractor-jasmine2-html-reporter": "0.0.7",
+    "astrolabe": "0.3.6",
+    "winston": "3.3.3"
+  },
+  "dependencies": {
+    "path": "0.12.7",
+    "promise": "8.1.0"
+  }
+}
